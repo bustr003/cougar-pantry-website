@@ -62,5 +62,5 @@ URL: https://cis341.cs.csusm.edu/pantry1/
 repository: https://github.com/bustr003/cougar-pantry-s19
 - used for version control amongst Spring 2019 team
 
-website overview: https://github.com/bustr003/resume/blob/master/Cougar%20Pantry%20Website%20Spring%202019.pdf
+website overview: https://github.com/bustr003/cougar-pantry-website/blob/main/Cougar%20Pantry%20Website%20Spring%202019.pdf
 - Screenshots of each page of the Cougar Pantry website
