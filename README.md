@@ -51,9 +51,8 @@ Create a website to highlight the impact of the Cougar Pantry service on CSUSM s
   
 - tools
   - AJAX
-  - Atom
   - CSV (comma-separated files)
-  - PHP myAdmin (database management system)
+  - phpMyAdmin (database management system)
 
 ======= LINKS =======
 URL: https://cis341.cs.csusm.edu/pantry1/
